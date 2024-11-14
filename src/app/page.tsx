@@ -1,4 +1,4 @@
-import EditorPreview from "../components/EditorPreview";
+import EditorPreview from "@/components/EditorPreview";
 
 export default function Home() {
   return (
